@@ -1,4 +1,4 @@
-# <center>OffsetOPT: Explicit Surface Reconstruction without Normals [<a href="https://arxiv.org/abs/2503.15763" style="color:#1e90ff;">arXiv preprint</a>](https://arxiv.org/abs/2503.15763)</center>
+# <center>OffsetOPT: Explicit Surface Reconstruction without Normals [<a href="https://arxiv.org/abs/2503.15763" style="color:#1e90ff;">[arXiv]</a>](https://arxiv.org/abs/2503.15763)</center>
 
 
 ![alt text](Method.png)
