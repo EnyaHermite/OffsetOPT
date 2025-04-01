@@ -27,7 +27,7 @@
 ## **Stage 1: Train the triangulation network**
   - We provide pretrained models:
     - `knn=50`: `trained_models/model_knn50.pth`
-    - `knn=100`: `trained_models/model_knn100.pth`
+    - `knn=100`: download from [[this link](https://drive.google.com/file/d/10eNzt_y-9BreS2JGZVRdVJI3q8io6AN-/view?usp=drive_link)] `model_knn100.pth` and store it in trained_models/
   - To train the model from your own side, run:
     ```bash
     python S1_train.py  # the default setting is knn=50
