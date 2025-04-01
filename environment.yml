@@ -1,0 +1,21 @@
+name: OffsetOPT
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch=2.3.0
+  - pytorch-cuda=12.1
+  - torchvision==0.18.0
+  - numpy
+  - tqdm
+  - scikit-learn
+  - open3d
+  - pip
+  - pip:
+      - trimesh
+      - wandb
+      - pykdtree
+      - gdown
